@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋. You have reached the github profile of Midhun Harikumar, a full stack developer based in Toronto, Canada.
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunhk&hide=php&layout=compact&theme=cobalt" />
+</a>
 
 <!--
 **midhunhk/midhunhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
