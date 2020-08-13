@@ -1,10 +1,10 @@
-### Hello 👋. I am Midhun Harikumar, a full stack developer based in Toronto, Canada.
+### Hello 👋 I am Midhun Harikumar, a full stack developer based in Toronto, Canada.
 
 - 🔭 I’m currently working on a ReactJS project
 - 🌱 I’m currently learning Firebase
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 
-I work on some open source projects in my free time on this account and at the page [@ae-app-labs](https://github.com/ae-app-labs).
+I work on some open source projects in my free time on this account and at the organization page [@ae-app-labs](https://github.com/ae-app-labs).
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunhk&hide=php&layout=compact&theme=cobalt" />
