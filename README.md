@@ -7,7 +7,7 @@
 I work on some open source projects in my free time on this account and at the organization page [@ae-app-labs](https://github.com/ae-app-labs).
 
 <a href="https://github.com/midhunhk">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunhk&theme=dracula&hide=css" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunhk&theme=dracula&hide=css&mode=compact" />
   <img  src="https://github-readme-stats.vercel.app/api?username=midhunhk&show_icons=true&theme=dracula" />
 </a>
 
