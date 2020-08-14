@@ -1,4 +1,4 @@
-### Hello 👋 I am Midhun Harikumar, a full stack developer based in Toronto, Canada.
+### 👋 Hello! I am Midhun Harikumar, a full stack developer based out of Toronto, :canada:
 
 - 🔭 I’m currently working on a ReactJS project
 - 🌱 I’m currently learning Firebase
