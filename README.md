@@ -1,7 +1,7 @@
 ### 👋 Hello! I am Midhun Harikumar, a full stack developer based out of Toronto, :canada:
 
-- 🔭 I’m currently working on a NodeJS powered Android project.
-- 🌱 I’m currently learning Redux.
+- 🔭 I’m currently porting the [@ae-app-labs](https://ae-app-labs.github.io) org page to use SapperJS.
+- 🌱 I will update the lib-aeapps project next.
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 
 I work on some open source projects in my free time on this account and at the organization page [@ae-app-labs](https://github.com/ae-app-labs).
