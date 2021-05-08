@@ -1,7 +1,7 @@
 ### 👋 Hello! I am Midhun Harikumar, a full stack developer based out of Toronto, :canada:
 
-- 🔭 I’m currently learning Python and updating my personal portfolio.
-- 🌱 I have not decided the next plan yet.
+- 🔭 I’m currently learning Python.
+- 🌱 I plan to implement authentication with JWT.
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 
 I work on some open source projects in my free time on this account and at the organization page [@ae-app-labs](https://github.com/ae-app-labs).
