@@ -1,10 +1,11 @@
 ### 👋 Hello! I am Midhun Harikumar, a full stack developer based out of Toronto, :canada:
 
-- 🔭 I’m currently learning Python.
+- 🔭 I’m currently learning Python and Go.
 - 🌱 I plan to implement authentication with JWT.
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 
-I work on some open source projects in my free time on this account and at the organization page [@ae-app-labs](https://github.com/ae-app-labs).
+I work on some open source projects in my free time on this account and at the organization page [@ae-app-labs](https://github.com/ae-app-labs).  
+Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials), as well as some [design reviews](https://www.youtube.com/channel/UCCYOqc-QhZCbWtjpHZ5ROXw) and [presentations](https://www.youtube.com/channel/UCCYOqc-QhZCbWtjpHZ5ROXw).
 
 <a href="https://github.com/midhunhk">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunhk&theme=dracula&hide=css&mode=compact" />
