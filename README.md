@@ -1,7 +1,7 @@
 ### 👋 Hello! I am Midhun Harikumar, a full stack developer based out of Toronto, :canada:
 
-- 🔭 I’m currently learning SvelteKit and Ethereum Blockchain Development.
-- 🌱 I plan to take Azure Cloud Certification.
+- 🔭 I’m currently learning SvelteKit.
+- 🌱 I plan to take AWS Cloud Certification.
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 - ✨ I blog on my personal [website](https://www.midhunhk.com/blog/) occassionally.
 - 📬 I work on some open source projects in my free time 
@@ -39,12 +39,13 @@ Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials)
 
 ### Favourite Tools
  - [cmdr](https://cmder.net)
- - VSCode with Atom One Dark theme
- - Android Studio with Dark Theme
+ - Visual Studio Code with Atom One Dark theme
+ - Android Studio
  - Eclipse with [Moonrise Theme](https://github.com/guari/eclipse-ui-theme) and Rain Drops Theme
  - Notepad++ with [Dracula Theme](https://draculatheme.com/notepad-plus-plus/) and [Markdown++](https://github.com/Edditoria/markdown-plus-plus)
  - Macromedia Fireworks 8
  - Adobe XD
+ - Figma
 
 <!--
 **midhunhk/midhunhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
