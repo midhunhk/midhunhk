@@ -1,7 +1,7 @@
 ### 👋 Hello! I am Midhun Harikumar, a full stack developer based out of Toronto, :canada:
 
 - 🔭 I’m currently learning SvelteKit.
-- 🌱 I plan to take AWS Cloud Certification.
+- 🌱 I plan to take a Cloud Certification.
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 - ✨ I blog on my personal [website](https://www.midhunhk.com/blog/) occassionally.
 - 📬 I work on some open source projects in my free time 
