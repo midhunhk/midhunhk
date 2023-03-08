@@ -37,7 +37,8 @@ Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials)
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=midhunhk&theme=dracula" />
 </a>
 
-### Favourite Tools
+<hr>
+### My Tools
  - [cmdr](https://cmder.net)
  - Visual Studio Code with Atom One Dark theme
  - Android Studio
