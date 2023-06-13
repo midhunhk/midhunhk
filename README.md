@@ -49,6 +49,10 @@ Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials)
  - Adobe XD
  - Figma
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=midhunhk" />
+</p>
+  
 <!--
 **midhunhk/midhunhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
