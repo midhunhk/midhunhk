@@ -1,4 +1,5 @@
-### 👋 Hello! I am Midhun Harikumar, a full stack developer based out of Toronto, :canada:
+## 👋 Hello! I am Midhun Harikumar 
+### A Senior Full Stack Developer and Technical Architect
 
 - 🔭 I’m currently learning SvelteKit.
 - 🌱 I plan to take a Cloud Certification.
