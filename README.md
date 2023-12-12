@@ -33,9 +33,9 @@ Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials)
 
 ### Github Analytics
 <a href="https://github.com/midhunhk">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunhk&theme=dracula&hide=css&mode=compact" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=midhunhk&show_icons=true&theme=dracula" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=midhunhk&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunhk&theme=dark&hide=css&mode=compact&langs_count=8&layout=donut-vertical" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=midhunhk&show_icons=true&theme=dark" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=midhunhk&theme=dark" />
 </a>
 
 <hr>
