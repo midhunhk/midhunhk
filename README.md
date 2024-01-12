@@ -42,12 +42,11 @@ Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials)
 
 ### My Tools 
  - [cmdr](https://cmder.net)
- - Visual Studio Code with Atom One Dark theme
+ - Visual Studio Code, Atom One Dark theme
  - Android Studio
  - Eclipse with [Moonrise Theme](https://github.com/guari/eclipse-ui-theme) and Rain Drops Theme
  - Notepad++ with [Dracula Theme](https://draculatheme.com/notepad-plus-plus/) and [Markdown++](https://github.com/Edditoria/markdown-plus-plus)
  - Macromedia Fireworks 8
- - Adobe XD
  - Figma
 
 <p align="center">
