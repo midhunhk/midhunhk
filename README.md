@@ -1,7 +1,7 @@
 ## 👋 Hello! I am Midhun Harikumar 
 ### A Senior Full Stack Developer and Technical Architect
 
-- 🔭 I’m currently learning SvelteKit.
+- 🔭 I’m currently learning Quantum Computing with Q#.
 - 🌱 I plan to take a Cloud Certification.
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 - ✨ I blog on my personal [website](https://www.midhunhk.com/blog/) occassionally.
