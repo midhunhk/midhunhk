@@ -3,7 +3,7 @@
 ## 👋 Hello! I am Midhun Harikumar 
 ### A Full Stack Developer and Technical Architect
 
-- 🔭 I’m currently exploring Quantum Computing with Q#.
+- 🔭 I’m currently exploring [Quantum Computing](https://github.com/midhunhk/quantum-computing) with Q#.
 - 🌱 Planning to take another Cloud Certification, soon.
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 - ✨ I blog on my personal [website](https://www.midhunhk.com/blog/) occassionally.
