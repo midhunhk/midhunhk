@@ -1,15 +1,19 @@
-## 👋 Hello! I am Midhun Harikumar 
-### A Senior Full Stack Developer and Technical Architect
+<img src="https://komarev.com/ghpvc/?username=midhunhk" />
 
-- 🔭 I’m currently learning Quantum Computing with Q#.
-- 🌱 I plan to take a Cloud Certification.
+## 👋 Hello! I am Midhun Harikumar 
+### A Full Stack Developer and Technical Architect
+
+- 🔭 I’m currently exploring Quantum Computing with Q#.
+- 🌱 Planning to take another Cloud Certification, soon.
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 - ✨ I blog on my personal [website](https://www.midhunhk.com/blog/) occassionally.
-- 📬 I work on some open source projects in my free time 
+- 👓 I am interested in UI/UX design and my [casestudies](https://ae-app-labs.github.io/case-studies) are here.
+- 📬 I work as Technical Architect on a Global Payments middleware, including High Value Real time payments and ISO20022 migration
+- 🔧 I also work on some open source projects in my free time 
 - 🤖 I contribute to projects on latest tech stacks on [@ae-app-labs](https://github.com/ae-app-labs). 
 
 
-Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials), as well as some [design reviews](https://www.youtube.com/channel/UCCYOqc-QhZCbWtjpHZ5ROXw) and [presentations](https://www.youtube.com/channel/UCCYOqc-QhZCbWtjpHZ5ROXw).
+📷 Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials), as well as some [design reviews](https://www.youtube.com/channel/UCCYOqc-QhZCbWtjpHZ5ROXw) and [presentations](https://www.youtube.com/channel/UCCYOqc-QhZCbWtjpHZ5ROXw).
 
 <hr>
 
@@ -24,7 +28,7 @@ Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Svelte](https://img.shields.io/badge/svelte-%23316192.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/sveltekit-%23316192.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00d1b2.svg?style=for-the-badge&logo=bulma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -49,9 +53,7 @@ Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials)
  - Macromedia Fireworks 8
  - Figma
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=midhunhk" />
-</p>
+
   
 <!--
 **midhunhk/midhunhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
