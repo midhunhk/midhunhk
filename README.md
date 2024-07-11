@@ -8,7 +8,7 @@
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 - ✨ I blog on my personal [website](https://www.midhunhk.com/blog/) occassionally.
 - 👓 I am interested in UI/UX design and my [casestudies](https://ae-app-labs.github.io/case-studies) are here.
-- 📬 I work as Technical Architect on a Global Payments middleware, including High Value Real time payments and ISO20022 migration
+- 📬 I work as Technical Architect on a Global Payments middleware with focus on ISO20022 migration
 - 🔧 I also work on some open source projects in my free time 
 - 🤖 I contribute to projects on latest tech stacks on [@ae-app-labs](https://github.com/ae-app-labs). 
 
