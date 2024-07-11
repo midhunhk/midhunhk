@@ -8,9 +8,9 @@
 - 💬 Ask me about Android, Java, Kotlin and Modern Web Technologies.
 - ✨ I blog on my personal [website](https://www.midhunhk.com/blog/) occassionally.
 - 👓 I am interested in UI/UX design and my [casestudies](https://ae-app-labs.github.io/case-studies) are here.
-- 📬 I work as Technical Architect on a Global Payments middleware with focus on ISO20022 migration
+- 📬 I work as Technical Architect on Global Payments Middleware with focus on ISO20022 migration
 - 🔧 I also work on some open source projects in my free time 
-- 🤖 I contribute to projects on latest tech stacks on [@ae-app-labs](https://github.com/ae-app-labs).
+- 🤖 I contribute to personal projects on latest tech stacks at [@ae-app-labs](https://github.com/ae-app-labs).
 - 📷 Check out a few of my [video tutorials](https://ae-app-labs.github.io/tutorials), as well as some [design reviews](https://www.youtube.com/channel/UCCYOqc-QhZCbWtjpHZ5ROXw) and [presentations](https://www.youtube.com/channel/UCCYOqc-QhZCbWtjpHZ5ROXw).
 
 <hr>
@@ -30,8 +30,10 @@
 ![Bulma](https://img.shields.io/badge/bulma-00d1b2.svg?style=for-the-badge&logo=bulma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Oracle](https://img.shields.io/badge/Orcale-%23ff3366.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SporkCSS](https://img.shields.io/badge/spork-css-0c64f6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Github Analytics
 <a href="https://github.com/midhunhk">
