@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=midhunhk" />
 
 ## 👋 Hello! I am Midhun Harikumar 
-### A Full Stack Developer and Technical Architect
+### Full Stack Developer and Technical Architect
 
 - 🔭 I’m currently exploring [Quantum Computing](https://github.com/midhunhk/quantum-computing) with Q#.
 - 🌱 Planning to take another Cloud Certification, soon.
