@@ -20,7 +20,7 @@
 ![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Sass](https://img.shields.io/badge/sass-cf649a.svg?style=for-the-badge&logo=sass&logoColor=black)
-![Kotlin](https://img.shields.io/badge/kotlin-0c64f6.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-B125EA.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-00e18b?style=for-the-badge&spring&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-017CEE?style=for-the-badge&logo=android&logoColor=white)
