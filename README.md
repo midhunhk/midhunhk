@@ -30,7 +30,7 @@
 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23f96743.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00d1b2.svg?style=for-the-badge&logo=bulma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFC400.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Orcale-%23ff3366.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
